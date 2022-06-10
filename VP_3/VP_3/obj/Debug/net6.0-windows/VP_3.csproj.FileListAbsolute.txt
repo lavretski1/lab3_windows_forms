@@ -1,0 +1,34 @@
+C:\Users\Admin\source\repos\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.exe
+C:\Users\Admin\source\repos\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.deps.json
+C:\Users\Admin\source\repos\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.runtimeconfig.json
+C:\Users\Admin\source\repos\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.dll
+C:\Users\Admin\source\repos\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.pdb
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.Form1.resources
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.dll
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\refint\VP_3.dll
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.pdb
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\VP_3\VP_3\obj\Debug\net6.0-windows\ref\VP_3.dll
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.exe
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.deps.json
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.runtimeconfig.json
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.dll
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\bin\Debug\net6.0-windows\VP_3.pdb
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.AssemblyReference.cache
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.Form1.resources
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.GenerateResource.cache
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.AssemblyInfoInputs.cache
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.AssemblyInfo.cs
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.dll
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\refint\VP_3.dll
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.pdb
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\VP_3.genruntimeconfig.cache
+C:\Users\lavre\Downloads\repos (3)\VP_3\VP_3\obj\Debug\net6.0-windows\ref\VP_3.dll
